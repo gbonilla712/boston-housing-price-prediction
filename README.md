@@ -32,7 +32,7 @@ This project builds an **OLS multiple linear regression model** to predict media
 
 ## 📁 Project Structure
 ```plaintext
-foodhub-data-analysis-eda/
+boston-house-price-prediction/
 │
 ├── Boston House Price Prediction Methodology and Workflow.pdf     # Detailed methodology + workflow document
 ├── GBonilla Low Code Boston House Price Prediction Report.pdf     # Full project report
