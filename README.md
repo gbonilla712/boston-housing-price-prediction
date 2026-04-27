@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This project builds an **OLS multiple linear regression model** to predict median home values across Boston suburbs and towns using the Boston Housing dataset (506 observations, 13 variables) collected in 1970 from the Boston Standard Metropolitan Statistical Area (SMSA). The analysis applies exploratory data analysis, feature engineering, and multicollinearity diagnostics to deliver a statistically robust, interpretable model that explains approximately **70%** of the variation in housing prices.
+This project builds an **OLS multiple linear regression model** to predict median home values across Boston suburbs and towns using the Boston Housing dataset (506 observations, 13 variables) collected in 1970 from the Boston Standard Metropolitan Statistical Area (SMSA). This project was completed as part of the **MIT Applied AI & Data Science Program**. The analysis applies exploratory data analysis, feature engineering, and multicollinearity diagnostics to deliver a statistically robust, interpretable model that explains approximately **70%** of the variation in housing prices.
 
 ## 🎯 Key Objectives
 
