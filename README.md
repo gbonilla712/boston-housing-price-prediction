@@ -36,7 +36,7 @@ boston-house-price-prediction/
 │
 ├── Boston House Price Prediction Methodology and Workflow.pdf     # Detailed methodology + workflow document
 ├── GBonilla Low Code Boston House Price Prediction Report.pdf     # Full project report
-├── GBonilla_Boston_House_Price_Prediction_Elective_Low_Code_Notebook.ipynb   # Solution deliverable
+├── GBonilla_Boston_House_Price_Prediction_Elective_Low_Code.ipynb   # Solution deliverable
 │
 └── README.md                                # Project overview and documentation
 ```
