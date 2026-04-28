@@ -34,8 +34,8 @@ This project builds an **OLS multiple linear regression model** to predict media
 ```plaintext
 boston-house-price-prediction/
 │
-├── GBonilla Boston House Price Prediction Elective Low Code Methodology and Workflow.pdf  # Detailed methodology + workflow document
-├── GBonilla Boston House Price Prediction Elective Low Code Report.pdf     # Full project report
+├── GBonilla_Boston_House_Price_Prediction_Elective_Low_Code_Methodology_and_Workflow.pdf  # Detailed methodology + workflow document
+├── GBonilla_Boston_House_Price_Prediction_Elective_Low_Code_Report.pdf     # Full project report
 ├── GBonilla_Boston_House_Price_Prediction_Elective_Low_Code.ipynb   # Solution deliverable
 │
 └── README.md                                # Project overview and documentation
