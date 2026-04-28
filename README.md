@@ -51,7 +51,7 @@ boston-house-price-prediction/
 
 ## 📑 Project Report
 
-The full project report (`GBonilla Boston House Price Prediction Elective Low Code Report.pdf`) covers the following sections:
+The full project report (`GBonilla_Boston_House_Price_Prediction_Elective_Low_Code_Report.pdf`) covers the following sections:
 
 1. **Executive Summary** — Dataset overview, modeling approach, key findings, and stakeholder applications
 2. **Business Problem Overview and Solution Approach** — Problem framing, stakeholder needs, and end-to-end methodology
